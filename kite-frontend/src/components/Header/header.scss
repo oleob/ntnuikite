@@ -1,0 +1,7 @@
+@import '../../scss/constants.scss';
+
+.header {
+    grid-column: 1/4;
+    grid-row: 1/2;
+    background-color: $primary-color;
+}

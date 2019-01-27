@@ -1,0 +1,8 @@
+@import '../../scss/constants.scss';
+
+.footer {
+    grid-column: 1/4;
+    grid-row: 3/4;
+    text-align: center;
+    background-color: $secondary-color;
+}
